@@ -2,6 +2,12 @@
 
 A sleek and minimal **blog template** built with **Astro** and **React**, designed for performance and simplicity.
 
+<hr/>
+
+🌐**Demo (Live Preview):** <a href="https://bookworm-light.netlify.app/" target="_blank">https://bookworm-light.netlify.app/</a> 
+
+<hr />
+
 ## 🚀 Features
 - **Blazing Fast** – Built with **Astro** and **Vite** for optimized performance.
 - **Modern UI** – Styled with **Tailwind CSS** and **Sass**.
@@ -9,6 +15,8 @@ A sleek and minimal **blog template** built with **Astro** and **React**, design
 - **React Components** – Easily customizable and extendable.
 - **SEO-Friendly** – Optimized for search engines with clean and semantic markup.
 - **Responsive Design** – Works seamlessly on all devices.
+
+<hr />
 
 ## 🛠️ Technologies Used
 - **Astro** – Static site generation.
@@ -18,6 +26,8 @@ A sleek and minimal **blog template** built with **Astro** and **React**, design
 - **TypeScript** – Type safety.
 - **Tailwind CSS** – Utility-first styling.
 - **Sass** – Advanced CSS styling.
+
+<hr/>
 
 ## 📦 Installation & Setup
 
@@ -45,16 +55,17 @@ npm run dev  # Starts the Astro development server
 npm run build  # Generates static files for deployment
 ```
 
+<hr/>
+
 ## 📖 Usage
 - Customize blog content in the **/src/content/** directory.
 - Modify styles using **Tailwind CSS** and **Sass**.
 - Update metadata and SEO settings in **astro.config.mjs**.
 
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+<hr/>
 
 ## 📬 Contact & Contribution
-- **Portfolio:** [Your Portfolio Link]
-- **GitHub:** [Your GitHub Profile]
+- **Portfolio:** [https://ahmedmaher-portfolio.vercel.app/]
+- **GitHub:** [https://github.com/Ahmed-Maher77]
 - Contributions are welcome! Feel free to submit issues or pull requests.
 
